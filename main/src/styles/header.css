@@ -1,0 +1,17 @@
+.header_top_left{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.header_top_login{
+    color: white;
+}
+.header_top_login a{
+    text-decoration: none;
+    color: white;
+}
+.header_top{
+    box-sizing: border-box;
+    background-color: #1F3B4D;
+    border-top: 10px ;
+}
